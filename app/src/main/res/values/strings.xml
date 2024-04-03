@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxJavaDemo</string>
+
+    <!-- TEXTvIEW TEXT -->
+
+    <string name="text_title">Title</string>
+    <string name="text_body">Body</string>
+
+</resources>
